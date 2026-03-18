@@ -5,7 +5,7 @@ pydantic==2.5.0
 pydantic-settings==2.1.0
 python-dotenv==1.0.0
 transformers==4.35.0
-torch==1.12.1
+torch
 vaderSentiment==3.3.2
 scikit-learn==1.3.2
 numpy==1.24.4
